@@ -1,2 +1,2 @@
 # plot
-D3
+Use D3 to plot figures
